@@ -1,0 +1,8 @@
+E:\Userdata\Escritorio\Coalesced_UnPacker\bin\Debug\Coalesced.exe
+E:\Userdata\Escritorio\Coalesced_UnPacker\bin\Debug\Coalesced.pdb
+E:\Userdata\Escritorio\Coalesced_UnPacker\obj\Debug\Coalesced_UnPacker.csprojResolveAssemblyReference.cache
+E:\Userdata\Escritorio\Coalesced_UnPacker\obj\Debug\Coalesced.Form1.resources
+E:\Userdata\Escritorio\Coalesced_UnPacker\obj\Debug\Coalesced.Properties.Resources.resources
+E:\Userdata\Escritorio\Coalesced_UnPacker\obj\Debug\Coalesced_UnPacker.csproj.GenerateResource.Cache
+E:\Userdata\Escritorio\Coalesced_UnPacker\obj\Debug\Coalesced.exe
+E:\Userdata\Escritorio\Coalesced_UnPacker\obj\Debug\Coalesced.pdb
